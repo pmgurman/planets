@@ -4,6 +4,10 @@ The two moons maybe a problem for woZZ
 
 
 aaaa
+<<<<<<< HEAD
 
 
 PG add a line locally.
+=======
+Add a line to Phils mars file
+>>>>>>> 15322f86cb1ce1569ddd23a250c1750241705d50
